@@ -1,0 +1,79 @@
+.nav-font {
+  font-family: "WorkSans-SemiBold";
+}
+
+.footer-bg {
+  background-color: #314584;
+}
+
+.footer-title-color {
+  color: #ff3946;
+  font-size: 4rem;
+}
+
+.footer-text-size {
+  font-size: 1.2rem;
+}
+
+.section2-text-color {
+  color: #314584;
+}
+
+input, textarea {
+  background-color: #314584;
+  color: #fff;
+}
+
+input::placeholder, textarea::placeholder {
+  color: #fff;
+  padding: 5px 5px;
+}
+
+.btn-color {
+  background-color: #ff3946;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-family: "WorkSans-SemiBold";
+}
+
+.section1-fontsize {
+  font-size: 3.7rem;
+}
+
+.section3-fontsize {
+  font-size: 2.5rem;
+}
+
+.briefcase-bg {
+  background-color: #ff3946;
+}
+
+.briefcase-title-size {
+  font-size: 1.5rem;
+}
+
+.nav-link-para {
+  color: #314584;
+  font-family: "WorkSans-SemiBold";
+  font-size: 1.5rem;
+}
+
+.font-ws-semi {
+  font-family: "WorkSans-SemiBold";
+}
+
+.font-ws-reg {
+  font-family: "WorkSans-Regular";
+}
+
+.btn-danger {
+  --bs-btn-bg: $btn-color;
+}
+
+.ccc {
+  color: #6e757a;
+}
+
+/*# sourceMappingURL=style.css.map */
